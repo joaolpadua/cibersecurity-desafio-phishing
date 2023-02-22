@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./image_2023-02-22_121931146.png "Optional title")
